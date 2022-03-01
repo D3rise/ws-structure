@@ -36,7 +36,7 @@
         "eip158Block": 0,
         "eip160Block": 0,
         "byzantiumBlock": 0,
-        "instanbulBlock": 0,
+        "istanbulBlock": 0,
         "constantinopleBlock": 0,
         "petersburgBlock": 0,
         "ethash": {}
