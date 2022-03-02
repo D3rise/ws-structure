@@ -15,10 +15,10 @@
         * №9
     3. Первоначальные аккаунты:
         * Банк
+        * goldfish
         * ivan
         * semen
         * petr
-        * goldfish
 2. Созданные ключи (`data/geth/keychain`) скопировать на вторую машину
 3. Создать конфигурацию [генезис-блока](#%D0%B3%D0%B5%D0%BD%D0%B5%D0%B7%D0%B8%D1%81-%D0%B1%D0%BB%D0%BE%D0%BA) в genesis.json
 4. `geth init genesis.json --datadir data`
